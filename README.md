@@ -1,9 +1,8 @@
-![logo](Picsart_23-04-15_16-07-54-591.png)
+[![MasterHead](Picsart_23-04-15_16-07-54-591.png)
 <h1 align="center">Hi 👋, It's ME JOKER 1.1</h1>
 
 <h3 align="center">Judge me and I’ll prove you wrong.</h3>
-
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/producthunt-coding-hacking-hacker-time-3oEjHWbXcpeKhTktXi">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/producthunt-coding-hacking-hacker-time-3oEjHWbXcpeKhTktXi">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joker-gang&label=Profile%20views&color=0e75b6&style=flat" alt="joker-gang" /> </p>
 
